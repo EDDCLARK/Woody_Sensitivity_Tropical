@@ -1,1 +1,2 @@
 # Woody_Sensitivity_Tropical
+This repository hosts the code for identifying the main driver for woody cover change during 1993-2012 (XGBoost + SHAP). In addition, the code for quantifying the sensitivity of woody cover change to VPD is also provided using both ridge regression and PLS regression.
